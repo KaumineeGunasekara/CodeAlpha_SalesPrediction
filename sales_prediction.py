@@ -1,4 +1,4 @@
-"""CodeAlpha Data Science Internship - Task 4: Sales Prediction using Python"""
+"""Task 4: Sales Prediction using Python"""
 import os
 import numpy as np, pandas as pd
 import matplotlib
