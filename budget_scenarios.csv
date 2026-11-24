@@ -1,0 +1,6 @@
+Scenario,TV,Radio,Newspaper,Sales (Gradient Boosting),Sales (Linear + TVxRadio)
+All TV,100,0,0,9.12,8.65
+TV 75 / Radio 25,75,25,0,11.85,11.0
+TV 60 / Radio 40,60,40,0,11.49,11.78
+TV 50 / Radio 25 / Newspaper 25,50,25,25,10.04,9.85
+Even split of 3 channels,34,33,33,9.8,9.68

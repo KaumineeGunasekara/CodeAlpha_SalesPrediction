@@ -1,0 +1,7 @@
+Model,CV R2 (mean),CV R2 (std),Test R2,Test MAE,Test RMSE
+Linear (TV+Radio+Newspaper),0.88,0.06,0.899,1.461,1.782
+Linear (TV+Radio),0.882,0.06,0.901,1.444,1.771
+Linear (TV+Radio+TVxRadio),0.96,0.024,0.974,0.666,0.902
+Ridge (TV+Radio+TVxRadio),0.96,0.025,0.974,0.67,0.912
+Random Forest (all 3 channels),0.968,0.011,0.983,0.614,0.741
+Gradient Boosting (all 3 channels),0.97,0.011,0.983,0.619,0.73
